@@ -10,7 +10,7 @@ A react library developed with dumi
 ```jsx
 import { NewsFeed, NewsProvider } from 'feed-sdk';
 
-const API_KEY = '9fca5d7dbd8c4e49af9573cbc80ae902'; //for test use will expire soon.
+const API_KEY = '9fca5d7dbd8c4e49af9573cbc80ae902'; // only can use on localhost.
 const theme = {
   backgroundColor: '#f5f5f5',
   color: '#333',
